@@ -780,6 +780,9 @@ section,
   .hero h2 {
     font-size: 28px;
   }
+  .hero img{
+    width: 90%;
+  }
 }
 
 .hero .hero-waves {
